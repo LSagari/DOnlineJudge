@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1328990a.chunk.css",
+    "main.js": "/static/js/main.b2368025.chunk.js",
+    "main.js.map": "/static/js/main.b2368025.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb74b840.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb74b840.js.map",
+    "static/css/2.1a8e75b3.chunk.css": "/static/css/2.1a8e75b3.chunk.css",
+    "static/js/2.f4237e50.chunk.js": "/static/js/2.f4237e50.chunk.js",
+    "static/js/2.f4237e50.chunk.js.map": "/static/js/2.f4237e50.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a8e75b3.chunk.css.map": "/static/css/2.1a8e75b3.chunk.css.map",
+    "static/css/main.1328990a.chunk.css.map": "/static/css/main.1328990a.chunk.css.map",
+    "static/js/2.f4237e50.chunk.js.LICENSE.txt": "/static/js/2.f4237e50.chunk.js.LICENSE.txt",
+    "static/media/Background.6c9a40e8.mp4": "/static/media/Background.6c9a40e8.mp4",
+    "static/media/katex.min.css": "/static/media/KaTeX_Typewriter-Regular.b6a56b14.woff",
+    "static/media/Logo_dhbkdn.bccf89bd.jpg": "/static/media/Logo_dhbkdn.bccf89bd.jpg",
+    "static/media/logo.e1965f80.jpg": "/static/media/logo.e1965f80.jpg",
+    "static/media/sidebar.b08cd86e.png": "/static/media/sidebar.b08cd86e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb74b840.js",
+    "static/css/2.1a8e75b3.chunk.css",
+    "static/js/2.f4237e50.chunk.js",
+    "static/css/main.1328990a.chunk.css",
+    "static/js/main.b2368025.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+An online judge project developed using ReactJS as frontend and Django REST API framework as backend.
